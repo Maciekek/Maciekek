@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maciek</h1>
-<h3 align="center">I am a Frontend developer, IT trainer, and enthusiast of new technologies. In my role, I consistently strive to comprehend the client's or business's requirements, focusing on delivering value to enhance their workflow and optimize time. My expertise encompasses, software design, product development, business analysis, and Scrum mastering.</h3>
+<h4 align="center">I am a Frontend developer, IT trainer, and enthusiast of new technologies. In my role, I consistently strive to comprehend the client's or business's requirements, focusing on delivering value to enhance their workflow and optimize time. My expertise encompasses, software design, product development, business analysis, and Scrum mastering.</h4>
 
 - 🔭 I’m currently working at **SentiOne**
 
